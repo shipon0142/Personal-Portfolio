@@ -17,5 +17,5 @@ jobs:
         ftp-server: ftp.shiponsarder.com
         ftp-username: developer
         ftp-password: ${{ secrets.FTP_PASSWORD }}
-        protocol: ftps
+        protocol: ftp
         port: 21
