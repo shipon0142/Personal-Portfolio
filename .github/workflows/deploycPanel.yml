@@ -15,7 +15,7 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         ftp-server: ftp.shiponsarder.com
-        ftp-username: developer@shiponsarder.com
+        ftp-username: developer
         ftp-password: }JNK$*i{i-a*
         protocol: ftps
         port: 21
