@@ -14,8 +14,8 @@ jobs:
     - name: FTP-Deploy-Action
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
-        ftp-server: ${{ secrets.FTP_SERVER }}
-        ftp-username: ${{ secrets.FTP_USERNAME }}
-        ftp-password: ${{ secrets.FTP_PASSWORD }}
+        ftp-server: ftp.shiponsarder.com
+        ftp-username: developer@shiponsarder.com
+        ftp-password: }JNK$*i{i-a*
         protocol: ftps
         port: 21
