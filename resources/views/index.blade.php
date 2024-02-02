@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>Shipon Sarder</title>
+    <title>Shipon </title>
     
     <!-- Meta -->
     <meta charset="utf-8">
