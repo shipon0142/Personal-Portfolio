@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en"> 
 <head>
-    <title>Shipon </title>
+    <title>Shipon Sarder1</title>
     
     <!-- Meta -->
     <meta charset="utf-8">
@@ -22,7 +22,7 @@
 <body>
     
     <header class="header text-center">	    
-	    <h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Shipon </a></h1>
+	    <h1 class="blog-name pt-lg-4 mb-0"><a href="index.html">Shipon Sarder</a></h1>
         
 	    <nav class="navbar navbar-expand-lg navbar-dark" >
            
